@@ -149,6 +149,7 @@ function App() {
         <Route
           path="/who-discovered-awakening-health"
           element={<Section65 />}
+          // KL
         />
         <Route path="/how-does-awakening-health" element={<Section66 />} />
         <Route path="/awakening-health-tokenomics" element={<Section67 />} />
